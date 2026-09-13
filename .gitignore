@@ -1,0 +1,10 @@
+# Variables de entorno (¡nunca versionar secrets!)
+.env
+.env.local
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
