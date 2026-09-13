@@ -1,0 +1,4 @@
+Notas del practico de Git - Certificado DevOps ORT
+- git add: pasa cambios al staging
+- git commit: guarda una foto del staging en el historial
+- git push: sube los commits a GitHub
